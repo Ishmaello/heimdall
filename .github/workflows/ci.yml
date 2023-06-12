@@ -1,6 +1,6 @@
 name: CI
 
-on:IshIshmaello 
+on:
   push:
     branches:
       - "master"
